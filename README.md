@@ -1,8 +1,8 @@
 # Overview of my github projects
 ## Hardware projects
-1) Low cost NXP imx 6ull based board designed with Altium
+- [Low cost application processor PCB design](https://github.com/kristoftunner/imx6-pcb)
    - base design for future 
-2) Sensorboard with battery and wireless charing designed with Altium
+- [MCU projekt with wireless charger](https://github.com/kristoftunner/sensorboard-pcb)
   - base design for future microcontroller and sensor projects
 
 ## Software projects
